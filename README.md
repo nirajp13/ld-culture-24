@@ -1,5 +1,10 @@
-
 Scribbling notes prior to Lead Dev 2024
+
+# Questions
+
+- Think of a time when your team was under an unusually high amount of pressure? What did you do?
+- What was the worst production incident you were involved in? How did you handle the situation?
+- What examples would you give of a healthy culture?
 
 ```mermaid
 mindmap
@@ -33,6 +38,12 @@ id(how you can maintain a healthy culture even under high pressure.)
                 Help or hindrance?
         Social
             too many to list!
+        Market competition and economic downturns
+        Technical debt and legacy systems
+        Rapid scaling and hypergrowth demands
+        Investor expectations and pressure from stakeholders
+        Security incidents and data breaches
+        Customer demands and support challenges
     Maintaining healthy culture
         Is culture more than values?
             Enron values: "integrity, respect, communication & excellence"
@@ -59,5 +70,15 @@ id(how you can maintain a healthy culture even under high pressure.)
         Personal development
             How is this protected?
             Is it shared?
+        Coaching
+            For example, coaching around avoiding burnout
+        Strong leadership and clear vision
+            Leading by example
+        Encouraging work-life balance
+        Providing mental health support
+        Establishing clear roles and responsibilities
+        Encouraging diversity and inclusion
+        Facilitating open and honest communication
+        Fostering a sense of purpose and mission
 
 ```
